@@ -1,7 +1,9 @@
 #!/bin/bash
 
 # Author: Sumanth M
-# Description: The AuditAnalyzer project is designed to provide comprehensive system auditing and monitoring capabilities for administrators and users. By aggregating essential system information, user activity logs, network statistics, and performance metrics, it empowers users to maintain a secure and efficient operating environment.
+# Description: The AuditAnalyzer project is designed to provide comprehensive system auditing and monitoring 
+# capabilities for administrators and users. By aggregating essential system information, user activity logs, 
+# network statistics, and performance metrics, it empowers users to maintain a secure and efficient operating environment.
 
 # Date: 11-10-2024
 
