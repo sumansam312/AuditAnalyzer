@@ -3,7 +3,7 @@
 **Author:** Sumanth M  
 **Date:** 11-10-2024  
 **Description:**  
-The **AuditAnalyzer** project provides comprehensive system auditing and monitoring capabilities for administrators and users. It aggregates essential system information, user activity logs, network statistics, and performance metrics to help users maintain a secure and efficient operating environment.
+The AuditAnalyzer project provides comprehensive system auditing and monitoring capabilities for administrators and users. It aggregates essential system information, user activity logs, network statistics, and performance metrics to help users maintain a secure and efficient operating environment.
 
 ---
 
